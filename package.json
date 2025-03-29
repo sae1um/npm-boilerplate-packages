@@ -1,0 +1,26 @@
+{
+  "name": "web-plate",
+  "version": "1.0.1",
+  "description": "Boilerplate for web projects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sae1um/npm-boilerplate-packages.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Sae1um",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sae1um/npm-boilerplate-packages/issues"
+  },
+  "homepage": "https://github.com/sae1um/npm-boilerplate-packages#readme",
+  "dependencies": {
+    "inquirer": "^12.5.0"
+  }
+}
