@@ -1,6 +1,6 @@
 {
   "name": "web-plate",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Boilerplate for web projects",
   "main": "index.js",
   "type": "module",
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/sae1um/npm-boilerplate-packages#readme",
   "dependencies": {
     "inquirer": "^12.5.0"
+  },
+  "bin": {
+    "web-plate": "./index.js"
   }
 }
