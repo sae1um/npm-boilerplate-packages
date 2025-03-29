@@ -1,6 +1,6 @@
 {
   "name": "web-plate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Boilerplate for web projects",
   "main": "index.js",
   "type": "module",
